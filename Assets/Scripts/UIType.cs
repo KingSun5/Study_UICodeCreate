@@ -1,5 +1,4 @@
-﻿using System.Text;
-using Extension;
+﻿using Extension;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -13,19 +12,19 @@ using UnityEngine.UI;
 /// </summary>
 public class UIType : MonoBehaviour
 {
-
+	
 	/// <summary>
 	/// 变量名字
 	/// </summary>
-	public string VariableName
+	private string VariableName
 	{
 		get { return "_"+gameObject.name.LowercaseFirst(); }
 	}
-	
+
 	/// <summary>
 	/// UI类型
 	/// </summary>
-	public string ComponentName
+	private string ComponentName
 	{
 		get
 		{
@@ -59,7 +58,7 @@ public class UIType : MonoBehaviour
 			return "Transform";
 		}
 	}
-
+	
 	/// <summary>
 	/// 变量声明内容
 	/// </summary>
