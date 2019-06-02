@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Mloong\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mloong\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Study_UICodeCreate.838481114.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProject\0001-StudyTarget\Study_UICodeCreate" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="UICodeCreate.cs" t="Include" />
+          <e p="UICodeCreate.Data.cs" t="Include" />
+        </e>
+        <e p="Extension" t="Include">
+          <e p="StringExtension.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="UI" t="Include">
+            <e p="MainPanel" t="Include">
+              <e p="MainPanel.Control.cs" t="Include" />
+              <e p="MainPanel.Model.cs" t="Include" />
+              <e p="MainPanel.View.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UIType.cs" t="Include" />
+        </e>
+        <e p="Template" t="Include">
+          <e p="ControlTemplate.cs" t="Include" />
+          <e p="ModelTemplate.cs" t="Include" />
+          <e p="ViewTemplate.cs" t="Include" />
+        </e>
+        <e p="Test" t="Include">
+          <e p="Test.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Study_UICodeCreate.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
